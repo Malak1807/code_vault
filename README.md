@@ -17,6 +17,6 @@
 
 4. Booking System Project  
 **Date Completed:** 4/6/2025  
-**Description:** A system for booking and managing services. Students book services/facilities, while staff manage them. It covers bookings, membership models, and tracking of room occupancy and service availability.Implements advanced programming concepts, including Polymorphism, Exception Handling, Abstract Classes and Interfaces, and Graphical User Interface.
+**Description:** A system for booking and managing services. Students book services/facilities, while staff manage them. It covers bookings, membership models, and tracking of room occupancy and service availability.Implements advanced programming concepts, including Polymorphism, Exception Handling, Abstract Classes and Interfaces, and Graphical User Interface.  
 **Notes:** The program is run from the BookingSystem class. Checkout the Booking_System_Report.docx file.
 
